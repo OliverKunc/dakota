@@ -13,11 +13,11 @@ library provides the following DACE techniques:
 #. central composite design ( ``central_composite``)
 
 These methods all generate point sets that may be used to drive a set of
-computer experiments.  Note that all of the DACE methods generated
+computer experiments.  Note that all of the DACE methods generate
 randomized designs, except for Box-Behnken and Central composite which
-are classical designs.  That is, the grid sampling will generate a
-randomized grid, not what one typically thinks of as a grid
-of uniformly spaced points over a rectangular grid.  Similar,
+are classical designs.  That is, most of these grid sampling methods
+will generate a randomized grid, not what one typically thinks of as a
+grid of uniformly spaced points over a rectangular grid.  Similar,
 the orthogonal array is a randomized version of an orthogonal
 array:  it does not generate discrete, fixed levels.
 
