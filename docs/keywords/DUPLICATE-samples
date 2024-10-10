@@ -2,7 +2,7 @@ Blurb::
 Number of samples for sampling-based methods
 Description::
 The ``samples`` keyword is used to define the number of samples (i.e.,
-randomly chosen sets of variable values) at which to execute a model.
+chosen sets of variable values) at which to execute a model.
 
 *Default Behavior*
 
