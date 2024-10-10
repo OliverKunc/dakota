@@ -1,5 +1,5 @@
 Blurb::
-Number of replications in the sample set
+Number of levels in the sample set
 Description::
 ``symbols`` is related to the number of levels per variable in the sample
 set (a larger number of symbols equates to more stratification and
